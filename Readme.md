@@ -1,4 +1,4 @@
-![snake gif](https://github.com/anuragdandge/anuragdandge/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/anuragdandge/anuragdandge/blob/output/github-contribution-grid-snake.svg)
 
 <a href=#><img src="contributions.svg"></a>
 
